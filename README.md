@@ -1,7 +1,7 @@
 ### Hi there, I'm Abdelmalek 👋
 
-- 🎓 A recent CS graduate of Jijel University
-- 👨‍💻 Computer Programming && DevOps
+- 🎓 Master Student(Networking & Security) At Jijel University
+- 👨‍💻 Computer Programming & DevOps
 - 👨‍💻 Linux Expert
 - 🔗 Connect me on [LinkedIn](https://www.linkedin.com/in/abdelmalek-rezig/)!
 
@@ -16,4 +16,16 @@
 [<img align="left" alt="filecoin" width="26px" src="./README_img/aws.png" />][aws]
 [<img align="left" alt="mysql" width="26px" src="./README_img/mysql.svg" />][mysql]
 [<img align="left" alt="redis" width="26px" src="./README_img/redis.svg" />][redis]
+
+[mygithub]:https://github.com/razig-ths
+[python]:https://www.python.org/
+[docker]:https://github.com/moby/moby
+[k8s]:https://github.com/kubernetes/kubernetes
+[ansible]:https://docs.ansible.com/
+[vscode]:https://github.com/microsoft/vscode
+[github]:https://github.com/
+[aws]:https://docs.aws.amazon.com/
+[jenkins]:https://www.jenkins.io/doc/
+[mysql]:https://www.mysql.com/
+[redis]:https://redis.io/
 
